@@ -1,0 +1,150 @@
+.yellow-section {
+    background-color: yellow;
+  }
+  
+  .pink-section {
+    background-color: pink;
+  }
+  .dark-section {
+    /* background-color: black; */
+    height: 250px;
+    color: white;
+    text-align: center;
+    font-family: inherit
+  }
+  .light-blue-section {
+    text-align: center;
+    /* background-color: rgb(209, 244, 209); */ 
+
+  }
+  h1 {
+    size: 1000;
+    font-size: 80px;
+  }
+  input { 
+    width: 300px;
+   
+   border-start-start-radius:  20px;
+   border-end-start-radius: 20px;
+  
+    height: 30px;
+    
+  }
+  h4 {
+    color: rgb(185, 185, 40) ;
+  }
+  .green-btn {
+    width: 60px;
+    height: 34px;
+    background-color: green;
+    border-end-end-radius: 20px ;
+    border-start-end-radius: 20px;
+    color: white;
+  }
+  a {
+    color: white;
+  }
+  #home {
+    padding:30px ;
+    background-color: black;
+
+  }
+  #HTML-section {
+    padding: 50px;
+    background-color: rgb(209, 244, 209); 
+    /* height: 250px; */
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  }
+  
+
+  .btn1, .btn2 ,.btn3, .btn4{
+    width: 200px;
+    border-radius: 20px;
+    border: none ;
+    margin-top: 10px;
+    height: 30px ;
+
+  }
+  .btn1 {
+    background-color: green;
+    color: white;
+  }
+  .btn2 {
+    background-color:rgb(244, 244, 169) ;
+  }
+  .btn3 {
+    background-color: black;
+    color: white;
+  }
+  .btn4 {
+    background-color: pink;
+  }
+
+  #CSS-section {
+    padding: 50px;
+    background-color: rgb(244, 244, 169) ;
+    /* height: 250px; */
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+
+  }
+    .btn1, .btn3 ,.btn4{
+      width: 200px;
+      border-radius: 20px;
+      border: none ;
+      margin-top: 10px;
+      height: 30px ; 
+  } 
+    
+    
+ 
+
+   #JavaScript-section { 
+    padding: 50px;
+    background-color: black ;
+    /* height: 250px; */
+   font-family: inherit;
+    text-align: center;
+
+  }
+    .btn1, .btn5 ,.btn4{
+      width: 200px;
+      border-radius: 20px;
+      border: none ;
+      margin-top: 10px;
+      height: 30px ; 
+  } 
+    
+  .btn5 {
+    background-color: white;
+    color: black;
+  }
+  
+   h2 {
+    color: white;
+    font-size: 60px;
+
+   }
+   h5 {
+    color: white;
+    font-size: 20px;
+   }
+
+   #Python-section {
+    padding: 50px;
+    background-color:rgb(231, 227, 227);
+    /* height: 250px; */
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+
+  }
+    .btn1, .btn3 ,.btn4{
+      width: 200px;
+      border-radius: 20px;
+      border: none ;
+      margin-top: 10px;
+      height: 30px ; 
+  } 
+    
+    
+  
